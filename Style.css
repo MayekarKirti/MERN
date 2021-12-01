@@ -1,0 +1,19 @@
+.container{
+    background-color: black;
+}
+h6{
+    color:skyblue;
+}
+h1{
+    color:white;
+}
+h5{
+    color:#b7b7a4;
+}
+h4{
+    color: white;
+}
+.input-group-append{
+    color: skyblue;
+    background-color: skyblue;
+}
